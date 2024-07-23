@@ -100,7 +100,7 @@ running_processes = {}
 
 # Constants
 CONTINUATION_EXIT_PHRASE = "AUTOMODE_COMPLETE"
-MAX_CONTINUATION_ITERATIONS = 25
+MAX_CONTINUATION_ITERATIONS = 50
 MAX_CONTEXT_TOKENS = 200000  # Reduced to 200k tokens for context window
 
 # Models
